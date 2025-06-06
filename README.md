@@ -21,7 +21,7 @@
     <br />
 <!--     <a href="https://i.ibb.co/QkSk539/Whats-App-Image-2024-11-14-at-01-51-59-0db751b0.jpg">Support Me (with Money LOL)</a> -->
 <!--     • -->
-    <a href="https://github.com/satendra03/trip-planner-by-satendra/issues">Report Bug</a>
+    <a href="(https://github.com/Nithin025/MakeATrip/issues)">Report Bug</a>
   </p>
 </div>
 </br>
@@ -37,8 +37,7 @@
     <a href="https://ibb.co/f1zjdLn"><img src="https://i.ibb.co/TbHgn5W/form.png" alt="image-2" style="border-radius: 10px; height: 170px; border: 0;"></a>
     <a href="https://ibb.co/yySg2kP"><img src="https://i.ibb.co/QDkGLrS/trip.png" alt="image-1" style="border-radius: 10px; height: 170px; border: 0;"></a>
     <a href="https://ibb.co/26srCZS"><img src="https://i.ibb.co/bPcmZwX/all.png" alt="image-3" style="border-radius: 10px; height: 170px; border: 0;"></a>
-<!--     <a href="https://ibb.co/jfty8cW"><img src="https://i.ibb.co/Khn25ML/image-5.png" alt="image-5" style="border-radius: 10px; height: 170px; border: 0;"></a> -->
-<!--     <a href="https://ibb.co/r5MtJxg"><img src="https://i.ibb.co/zPb5wX1/image-4.png" alt="image-4" style="border-radius: 10px; height: 170px; border: 0;"></a> -->
+
 </div>
 </br>
 
@@ -194,7 +193,7 @@ The installation process is straightforward. You can either clone the repository
 1. **Clone the repository or download the ZIP file**  
    - To clone the repo, run the following command:
      ```sh
-     https://github.com/satendra03/trip-planner-by-satendra.git
+   (https://github.com/Nithin025/MakeATrip)
      ```
    - Alternatively, you can download the ZIP file from the repository page and extract it.
 
@@ -272,8 +271,6 @@ The roadmap represents the challenges and updates that I plan to implement in th
 </div>
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are <b>greatly appreciated</b>. <br />
 
-<p>Or Maybe you can just  <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a></p>
-
 If you have an idea or feature that would make this project even better, please feel free to contribute. Whether it's fixing bugs, adding new features, improving documentation, or anything else, your help is welcome!
 
 ### How to Contribute:
@@ -284,7 +281,7 @@ If you have an idea or feature that would make this project even better, please 
 2. **Clone the repo**  
    Clone your forked version of the repo to your local machine.  
    ```sh
-   git clone https://github.com/satendra03/trip-planner-by-satendra.git
+   git clone(https://github.com/Nithin025/MakeATrip)
    ```
 
 3. **Create your feature branch**  
@@ -314,7 +311,7 @@ If you have an idea or feature that would make this project even better, please 
   
 
 ## Report Issues and Suggestions
-If you encounter a bug or have a suggestion to improve the project, please open an [issue](https://github.com/satendra03/trip-planner-by-satendra/issues) on the Issues page. If it's a new feature or improvement, tag it as an "enhancement".
+If you encounter a bug or have a suggestion to improve the project, please open an [issue](https://github.com/Nithin025/MakeATrip/issues) on the Issues page. If it's a new feature or improvement, tag it as an "enhancement".
 
 
 </br>
@@ -344,6 +341,6 @@ We’d love to hear from you! Whether you have a question, suggestion, or issue 
 
 3. **Social Media**:
    - **Instagram**: [@_Nithin025_](https://www.instagram.com/mr.nithin_025/)
-   - **LinkedIn**: [Nithin]([https://www.linkedin.com/in/connect-satendra/](https://in.linkedin.com/in/bandari-nithin-069011269))
+   - **LinkedIn**: [@_Nithin]([https://www.linkedin.com/in/connect-satendra/](https://in.linkedin.com/in/bandari-nithin-069011269))
 4. **Buy Me A Coffee**:
    - **Small Contibution**:
