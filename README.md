@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1 align="center">MakeATrip</h1 >
-  <a href="https://trip-planner-by-satendra.vercel.app/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://i.ibb.co/X7N17ps/main.png" style="border-radius: 10px;" alt="Logo" width="" height="250">
   </a>
 
@@ -13,7 +13,7 @@
     <br/>
      <div><a href="https://app.eraser.io/workspace/IT31dyj1DiiagZtyJ47a?origin=share" target="_blank"><img src="https://img.shields.io/badge/Eraser-EC2C40.svg?style=for-the-badge&logo=Eraser&logoColor=white" alt="Documentation and Flow"> </img></a></div>
      <br />
-     <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
+     
     <br />
     <br />
     <a href="https://trip-planner-by-satendra.vercel.app/" target="_blank"><strong>Visit Now</strong></a>
@@ -341,6 +341,6 @@ We’d love to hear from you! Whether you have a question, suggestion, or issue 
 
 3. **Social Media**:
    - **Instagram**: [@_Nithin025_](https://www.instagram.com/mr.nithin_025/)
-   - **LinkedIn**: [@_Nithin]([https://www.linkedin.com/in/connect-satendra/](https://in.linkedin.com/in/bandari-nithin-069011269))
+   - **LinkedIn**: [@_Nithin_]([https://www.linkedin.com/in/connect-satendra/](https://in.linkedin.com/in/bandari-nithin-069011269))
 4. **Buy Me A Coffee**:
    - **Small Contibution**:
