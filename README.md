@@ -14,15 +14,7 @@
      <div><a href="https://app.eraser.io/workspace/IT31dyj1DiiagZtyJ47a?origin=share" target="_blank"><img src="https://img.shields.io/badge/Eraser-EC2C40.svg?style=for-the-badge&logo=Eraser&logoColor=white" alt="Documentation and Flow"> </img></a></div>
      <br />
      
-    <br />
-    <br />
-    <a href="https://trip-planner-by-satendra.vercel.app/" target="_blank"><strong>Visit Now</strong></a>
-    <br />
-    <br />
-<!--     <a href="https://i.ibb.co/QkSk539/Whats-App-Image-2024-11-14-at-01-51-59-0db751b0.jpg">Support Me (with Money LOL)</a> -->
-<!--     • -->
-    <a href="(https://github.com/Nithin025/MakeATrip/issues)">Report Bug</a>
-  </p>
+
 </div>
 </br>
 <div align="center">
@@ -341,6 +333,6 @@ We’d love to hear from you! Whether you have a question, suggestion, or issue 
 
 3. **Social Media**:
    - **Instagram**: [@_Nithin025_](https://www.instagram.com/mr.nithin_025/)
-   - **LinkedIn**: [@_Nithin_]([https://www.linkedin.com/in/connect-satendra/](https://in.linkedin.com/in/bandari-nithin-069011269))
+   - **LinkedIn**: [@_Nithin_](https://in.linkedin.com/in/bandari-nithin-069011269))
 4. **Buy Me A Coffee**:
    - **Small Contibution**:
