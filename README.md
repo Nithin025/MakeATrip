@@ -333,6 +333,6 @@ We’d love to hear from you! Whether you have a question, suggestion, or issue 
 
 3. **Social Media**:
    - **Instagram**: [@_Nithin025_](https://www.instagram.com/mr.nithin_025/)
-   - **LinkedIn**: [@_Nithin_](https://in.linkedin.com/in/bandari-nithin-069011269))
+   - **LinkedIn**: [@_Nithin_](https://in.linkedin.com/in/bandari-nithin-069011269)
 4. **Buy Me A Coffee**:
    - **Small Contibution**:
