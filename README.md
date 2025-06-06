@@ -340,10 +340,10 @@ We’d love to hear from you! Whether you have a question, suggestion, or issue 
    - [Open an Issue](https://github.com/satendra03/trip-planner-by-satendra/issues)
 
 2. **Email**: Reach out to us via email at:
-   - **nithin@example.com** 
+   - **bandarinithin1@gmail.com** 
 
 3. **Social Media**:
-   - **Instagram**: [@_satendra_03](https://www.instagram.com/_satendra_03/)
+   - **Instagram**: [@_satendra_03](https://www.instagram.com/mr,nithin_025/)
    - **LinkedIn**: [Nithin](https://www.linkedin.com/in/connect-satendra/)
 4. **Buy Me A Coffee**:
    - **Small Contibution**:  <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
